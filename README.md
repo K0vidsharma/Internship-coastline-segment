@@ -10,6 +10,15 @@ The coastline is an important feature of the coastal morphology. Monitoring coas
 * `Coastline Segmentation.ipynb` - Ipython notebook for experimentation.
 * Results - Contains the accuracy and dice loss curve.
 
+### Results:
+* Accuracy - 90.0394 %
+* Dice Score - 0.223
+
+![alt text](https://github.com/K0vidsharma/Internship-coastline-segment/blob/a720265f472747da6fde503593c0a389d94a4ed8/results/Coastline%20Segmentation-acc.png?raw=true)
+
+
+
+
 
 
 
