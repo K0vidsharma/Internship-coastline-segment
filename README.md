@@ -16,6 +16,7 @@ Dataset Link: https://www.kaggle.com/datasets/k0vidsharma/beach-segmentation/dat
 * Results - Contains the accuracy and dice loss curve.
 * Internship Report
 * Internship PPT
+* Intern Certificate
 
 ### Results:
 * Accuracy - 90.0394 %
