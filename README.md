@@ -12,16 +12,6 @@ The coastline is an important feature of the coastal morphology. Monitoring coas
 
 ### Results:
 * Accuracy - 90.0394 %
-* Dice Score - 0.223
+* Dice Score - 0.223 %
 
-![alt text](https://github.com/K0vidsharma/Internship-coastline-segment/blob/a720265f472747da6fde503593c0a389d94a4ed8/results/Coastline%20Segmentation-acc.png?raw=true)
-
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100](https://github.com/K0vidsharma/Internship-coastline-segment/blob/a720265f472747da6fde503593c0a389d94a4ed8/results/Coastline%20Segmentation-acc.png?raw=true">
-
-
-
-
-
-
-
-
+Model code inspired from: https://youtu.be/IHq1t7NxS8k?si=m5u-aZETj-SCd5t3
