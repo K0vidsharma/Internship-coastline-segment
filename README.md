@@ -9,6 +9,8 @@ The coastline is an important feature of the coastal morphology. Monitoring coas
 * `vid_to_img.py` - Python code for converting videos to images at a specified interval.
 * `Coastline Segmentation.ipynb` - Ipython notebook for experimentation.
 * Results - Contains the accuracy and dice loss curve.
+* Internship Report
+* Internship PPT
 
 ### Results:
 * Accuracy - 90.0394 %
