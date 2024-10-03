@@ -4,7 +4,11 @@ This repo contains the details of work done during the summer internship at Ranv
 ### Problem Statement:
 The coastline is an important feature of the coastal morphology. Monitoring coastal zones is crucial in safeguarding the environment while identifying coastlines is essential for efficiently managing coastal areas. The task was to develop a model that accurately represents the coastline of an ocean or water body.
 
-### Repo Details:
+### Repo Structure:
+
+* `vid_to_img.py` - Python code for converting videos to images at a specified interval.
+* `Coastline Segmentation.ipynb` - Ipython notebook for experimentation.
+* Results - Contains the accuracy and dice loss curve.
 
 
 
