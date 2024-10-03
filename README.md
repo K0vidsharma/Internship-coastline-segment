@@ -12,6 +12,7 @@ Dataset Link: https://www.kaggle.com/datasets/k0vidsharma/beach-segmentation/dat
 
 * `vid_to_img.py` - Python code for converting videos to images at a specified interval.
 * `Coastline Segmentation.ipynb` - Ipython notebook for experimentation.
+* `model.py` - code for U-Net with batch normalization.
 * Results - Contains the accuracy and dice loss curve.
 * Internship Report
 * Internship PPT
